@@ -14,4 +14,4 @@ Lap Times: Below the display area, there's an unordered list (<ul>) with the cla
 
 You can use this stopwatch by clicking the control buttons. The stopwatch will start counting when you click "Start" and stop when you click "Stop." You can record lap times by clicking "Lap," and the lap times will be displayed in the list below the display.
 
-https://asishreddy369.github.io/simple-stopwatch-web-application/ it is a simple stop watch
+click to visit website:  https://asishreddy369.github.io/simple-stopwatch-web-application/
